@@ -1,1 +1,2 @@
-# head-detect-yolo1-pytorch
+# easy-head-detect-yolo1-pytorch
+more details will be shown gradually...
